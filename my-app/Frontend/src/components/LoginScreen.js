@@ -40,12 +40,6 @@ const LoginScreen = () => {
               <FontAwesomeIcon icon={faSignInAlt} />
               Sign In to Continue
             </button>
-
-            {/* <div className="test-credentials">
-              <h3>Test Account</h3>
-              <p><strong>Email:</strong> careers@fidenz.com</p>
-              <p><strong>Password:</strong> Pass#fidenz</p>
-            </div> */}
           </div>
         </div>
       </div>
